@@ -1,5 +1,5 @@
 # Product-Categorisation
-Categorie the ecommerce product to their category tree and brand
+Categoriation the ecommerce products to their category tree and brand using machine learning.
 
 This repository contains data, model training and testing code, input file
 
